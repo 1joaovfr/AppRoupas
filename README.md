@@ -38,7 +38,7 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone 
+    git clone https://github.com/1joaovfr/AppRoupas.git
     cd AppRoupas
     ```
 
@@ -57,5 +57,11 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local.
 4.  **Execute em seu dispositivo:**
     * Leia o QR code gerado no terminal com o aplicativo **Expo Go**.
     * Ou pressione `a` para abrir no emulador Android, ou `i` para abrir no emulador iOS.
+
+---
+
+## 🏁 Autores
+
+    João Vitor E Michelle Pinheiro
 
 ---
