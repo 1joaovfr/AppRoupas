@@ -60,7 +60,7 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local.
 
 ---
 
-## 🏁 Autores
+## ✏️ Autores
 
     João Vitor E Michelle Pinheiro
 
