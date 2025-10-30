@@ -60,8 +60,9 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local.
 
 ---
 
-## ✏️ Autores
+## ✍️ Autores
 
-    João Vitor E Michelle Pinheiro
+* [João Vitor](https://github.com/1joaovfr)
+* [Michelle Pinheiro](https://github.com/michellemarcondes)
 
 ---
